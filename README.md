@@ -1,7 +1,7 @@
 # paper-log
 
-[![opened-issue-badge](https://img.shields.io/github/issues/codertimo/paper-log)](https://github.com/codertimo/paper-log/issues)
-[![closed-issue-badge](https://img.shields.io/github/issues-closed/codertimo/paper-log)](https://github.com/codertimo/paper-log/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+[![opened-issue-badge](https://img.shields.io/github/issues/dlehdgus9887/paper-log-own)](https://github.com/dlehdgus9887/paper-log-own/issues)
+[![closed-issue-badge](https://img.shields.io/github/issues-closed/dlehdgus9887/paper-log-own)](https://github.com/dlehdgus9887/paper-log-own/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
 ## 소개 👋
 
